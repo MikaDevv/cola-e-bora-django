@@ -43,7 +43,7 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas em
 *Instalação*
 Clone o repositório:
 
-git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+git clone [https://github.com/MikaDevv/cola-e-bora-django]
 Acesse a pasta do projeto:
 
 cd nome-da-pasta-do-projeto
